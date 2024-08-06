@@ -1,3 +1,3 @@
 def d():
-    print("=" *50)
-    
+    '''Creates a divider in terminal'''
+    print('=' * 75)

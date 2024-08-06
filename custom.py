@@ -1,1 +1,6 @@
-#Build our own module 
+# Building our own module
+
+def hello():
+    print("Hello from the custom module!")
+
+    
